@@ -1,0 +1,1 @@
+This is a new file I am creating to satisfy part one of lab 2 and to practice adding pushing and pulling to github using terminal.
